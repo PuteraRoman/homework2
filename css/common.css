@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #eee;
+
+}
+
+#page-wrapper {
+    position: relative;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+a.hover {
+    color: green;
+}
+
+p {
+    color: rgb(22, 22, 26);
+    font-family: monospace;
+    font-size: 16px;
+}
+
+h2 {
+    color: blue;
+    font-family: monospace;
+}
